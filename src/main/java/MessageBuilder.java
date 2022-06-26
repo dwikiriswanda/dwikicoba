@@ -5,6 +5,12 @@ public class MessageBuilder {
     }
 
     public static int getNumber8(){
+        System.out.println("Current count:");
+        System.out.println("Current count:");
+        System.out.println("Current count:");
+        System.out.println("Current count:");
+        System.out.println("Current count:");
+        System.out.println("Current count:");
         return 8;
     }
    
