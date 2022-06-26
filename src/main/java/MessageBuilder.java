@@ -7,6 +7,17 @@ public class MessageBuilder {
     public static int getNumber8(){
         return 8;
     }
-   
+    
+    public static int getNumber8(){
+        return 8;
+    }
+
+    public static int getNumber8(){
+        return 8;
+    }
+
+    public static int getNumber8(){
+        return 8;
+    }
 
 }
